@@ -15,17 +15,20 @@ description     : &description "PhD Scholar at IIT Roorkee | Earthquake Engineer
 url             : https://nitish-kumar1999.github.io
 repository      : "nitish-kumar1999/nitish-kumar1999.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
-  # Biographic information
+  name             : "Nitish Kumar"
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Scholar | Earthquake Engineering | Structural Dynamics"
+  location         : "IIT Roorkee, India"
+  employer         : "Indian Institute of Technology Roorkee"
+
+  email            : "your-email@example.com"
+  googlescholar    : ""
+  orcid            : ""
+  researchgate     : ""
+  github           : "nitish-kumar1999"
+  linkedin         : ""
   uri              : # URL
   email            : "none@example.org" 
 
