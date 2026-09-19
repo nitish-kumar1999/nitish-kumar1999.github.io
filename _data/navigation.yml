@@ -25,9 +25,11 @@ main:
 
   - title: "Others"
     children:
-      - title: "Projects"
-        url: /projects/
-      - title: "CV"
-        url: /cv/
-      - title: "Contact"
-        url: /contact/
+      - title: "Fieldwork"
+        url: /fieldwork/
+      - title: "Labwork"
+        url: /labwork/
+      - title: "Conferences & Workshops"
+        url: /conferences-workshops/
+      - title: "Extra Curricular"
+        url: /extra-curricular/
