@@ -1,20 +1,31 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Experience"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Tutorial Assistant"
+permalink: /teaching/2024-2025-seismic-safety
+venue: "Indian Institute of Technology Roorkee"
+date: 2025-01-01
+location: "Roorkee, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Tutorial Assistant
 
-Heading 1
-======
+### MA202 — Seismic Safety
 
-Heading 2
-======
+**Indian Institute of Technology Roorkee**
 
-Heading 3
-======
+**2024–2025 (2nd Semester)**
+
+Instructor: **Dr. Varun Kumar Singla**
+
+---
+
+## Tutorial Assistant
+
+### MA411 — Structural Dynamics
+
+**Indian Institute of Technology Roorkee**
+
+**2026–2027 (1st Semester)**
+
+Instructor: **Dr. Shiv Prakash**
